@@ -11,4 +11,4 @@
 
 Specifically designed to aid with mob grazing of Luing cattle, on and around [Luing](https://en.wikipedia.org/wiki/Luing).
 
-Uses LoRaWAN for cross-island backbone.
+Uses LoRa-WAN for cross-island backbone.
